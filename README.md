@@ -60,7 +60,7 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 ---
 
 ## TABULATION
-<img width="1600" height="881" alt="image" src="https://github.com/user-attachments/assets/7d43bba8-e2c6-4d39-88e2-7e7408bdc3d4" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-26 at 9 48 00 AM" src="https://github.com/user-attachments/assets/27c0ed34-bada-4f42-982e-bd8f5d633ca2" />
 
 
 
