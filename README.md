@@ -67,10 +67,11 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 
 ---
 
-## MODEL GRAPH
 
 ## output 
 <img width="1071" height="634" alt="image" src="https://github.com/user-attachments/assets/1233d9fc-7833-45cf-96e5-0bae79cde9b5" />
 
 ## Results 
+<img width="1280" height="497" alt="WhatsApp Image 2026-09-26 at 11 58 17 AM" src="https://github.com/user-attachments/assets/69db12df-44d8-4024-95d9-b773311ff53f" />
+
  Successfully performed SSBSC modulation and demodulation using SCI LAB
